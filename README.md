@@ -169,18 +169,10 @@ We follow standard Go coding conventions. Please run `gofmt` on your code before
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🛡️ Security
-
-If you discover a security vulnerability within Cloudhound, please send an email to security@example.com. All security vulnerabilities will be promptly addressed.
-
-## 📚 Documentation
-
-For more detailed documentation, visit our [Wiki](https://github.com/yourusername/cloudhound/wiki).
-
 ## ✨ Acknowledgements
 
 - The Go community for the excellent language and libraries
-- All our [contributors](https://github.com/yourusername/cloudhound/graphs/contributors)
+- All our [contributors](https://github.com/Kamalesh-Seervi/cloudhound/graphs/contributors)
 - Inspiration from similar tools like S3Scanner, GCPBucketBrute, and others
 
 ---
